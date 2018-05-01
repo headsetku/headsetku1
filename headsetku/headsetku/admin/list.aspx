@@ -21,7 +21,7 @@
         <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:db_1626512_headsetkuConnectionString2 %>" SelectCommand="SELECT * FROM [tblProduct]"></asp:SqlDataSource>
         <br />
         <br />
-     <a href="add.aspx">Add Product </a>
+     <a href="add.aspx">Add Product</a>
         <br />
      <a href="list.aspx">List</a>
         <a href="Index.aspx">Go Back</a>
