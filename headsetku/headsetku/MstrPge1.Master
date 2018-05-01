@@ -1,0 +1,91 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MstrPge1.master.cs" Inherits="headsetku.MstrPge1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+      <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="author" content="headsetku"/>
+    <title>Headset</title>
+    <link href="CSS/Main.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+       Headset Purchase
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <header>
+        <hr />
+   <div id="nav">
+                <ul>
+                    <li><a href="Default.aspx" runat="server" >Home</a></li>
+                    <li><a href="Pages/Contact%201.aspx" runat="server" >Contact</a></li>
+                    <li><a href="Pages/Products.aspx" runat="server" >Products</a></li>
+                    <li><a href="Pages/about.aspx" runat="server">About</a></li>
+                    <li><a href="Pages/Login.aspx" runat="server">Log In</a></li>
+                    
+                </ul>
+        
+        </div>
+       </header>
+    <form id="form1" runat="server">
+
+   <div id="banner">
+            <img src="IMAGES/headsetku2.jpg" runat="server" alt="Headset Purchase" style="text-align:center"/>
+        </div>  
+
+        <asp:ContentPlaceHolder ID="Body" runat="server">
+        </asp:ContentPlaceHolder>
+    
+</form>
+     <footer>
+         <hr />
+            <div id="nav1">
+              <ul>
+                    <li><a href="Default.aspx" runat="server" >Home</a></li>
+                    <li><a href="Pages/Contact%201.aspx" runat="server" >Contact</a></li>
+                    <li><a href="Pages/Products.aspx" runat="server" >Products</a></li>
+                    <li><a href="Pages/about.aspx" runat="server">About</a></li>
+                    <li><a href="Pages/Login.aspx" runat="server">Log In</a></li>
+                    
+                </ul>
+             </div>
+     
+    
+
+      <div id="footer">
+            Where to find us:
+            <ul class="social-media-icons">
+                <li><a href="https://www.facebook.com/">facebook</a></li>
+                <li><a href="https://www.instagram.com/?hl=en">instagram</a></li>
+                <li><a href="https://www.reddit.com/r/Amd/">reddit</a></li>
+                <li><a href="https://www.youtube.com/">youtube</a></li>
+            </ul>
+          </div>
+    </footer>
+        
+
+         <div id="footer3">
+     <a href="http://validator.w3.org/check?uri=referer">Validate HTML</a>
+          <a href="http://jigsaw.w3.org/css-validator/check/referer">Validate CSS</a>
+          <a href="http://achecker.ca/checker/?uri=referer">Check WCAG</a>  
+             <br />
+           <a href="https://www.paypal.com/bn/home">Paypal</a>
+    </div>
+    <br />
+
+    <div id="footer4">
+    <img src="IMAGES/k.jpg" runat="server"/>
+    </div>
+    
+        <div id="footer6">
+            <br /> copyright@headsetku.com
+            <a href="admin/Admin.aspx">[Admin]</a>
+        </div>
+
+ 
+  
+
+         
+</body> 
+</html>

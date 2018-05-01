@@ -1,0 +1,229 @@
+﻿/*MstrPge1*/
+body {
+    background-image: url('../IMAGES BG/BG7.jpg');
+    padding: 100px;
+    margin: 0px;
+}
+
+
+
+#nav ul li {
+    list-style: none;
+    float: left;
+    font-family: 'Agency FB';
+    font-size: 36px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    border: none;
+    text-decoration:none;
+   
+}
+
+#nav1 ul li {
+    list-style: none;
+    float: left;
+    font-family: 'Agency FB';
+    font-size: 36px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+}
+
+ul li {
+    text-decoration: none;
+}
+
+
+#banner img {
+    width: 900px;
+    height: 350px;
+    padding-left: 200px;
+    clear: both;
+}
+
+#banner {
+    clear: both;
+}
+
+#footer {
+    width: 50%;
+    margin: 0px;
+    float: left;
+    bottom: 10px;
+    padding-left: 0px;
+    padding-top: 15px;
+    font-size: 17px;
+    text-decoration-line: none;
+    clear: both;
+}
+
+#footer2 {
+    width: 0%;
+    margin: 0px;
+    float: right;
+    bottom: 0px;
+    padding-bottom: 0px;
+    padding-right: 350px;
+    font-size: 17px;
+    text-decoration-line: none;
+    clear: both;
+}
+
+#footer3 {
+    width: 50%;
+    margin: 0px;
+    float: left;
+    bottom: 10px;
+    padding-top: 40px;
+    font-size: 17px;
+    text-decoration-line: none;
+    clear:both;
+}
+
+#footer4 {
+    width: 30%;
+    margin: 0px;
+    float: left;
+    bottom: 10px;
+    padding: 50px;
+    font-size: 17px;
+    text-decoration-line: none;
+    clear:both;
+}
+#footer5 {
+    width: 30%;
+    margin: 0px;
+    float: left;
+    bottom: 10px;
+    padding-left: 5px;
+    font-size: 17px;
+    text-decoration-line: none;
+}
+
+#footer6 {
+    width: 50%;
+    margin: 0px;
+    float: left;
+    bottom: 10px;
+    padding: 60px;
+    font-size: 17px;
+    text-decoration-line: none;
+}
+
+/*Login*/
+.auto-style1 {
+    margin-left: 16px;
+}
+
+.auto-style2 {
+    margin-left: 14px;
+}
+
+.auto-style3 {
+    margin-left: 17px;
+}
+
+#login-container {
+    padding-left: 100px;
+    margin-top: 40px;
+    float: left;
+    width: 388px;
+}
+
+
+/*about*/
+#about {
+    padding: 100px;
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: 'Alien Encounters';
+    text-decoration-color: white;
+    clear: both;
+}
+
+/*contact 1*/
+#Contact-container
+#Text1 {
+    height: 127px;
+    width: 163px;
+}
+
+#Text1 {
+    height: 146px;
+    width: 133px;
+}
+
+#Text1 {
+    height: 182px;
+    width: 155px;
+}
+
+.auto-style1 {
+    margin-left: 106px;
+}
+
+.auto-style2 {
+    margin-left: 50px;
+}
+
+.auto-style3 {
+    margin-left: 114px;
+}
+
+.auto-style4 {
+    margin-left: 101px;
+}
+
+.auto-style5 {
+    margin-top: 6px;
+}
+
+
+#map {
+    height: 720px;
+    width: 1280px;
+    margin-bottom: 100px;
+    padding: 120px;
+}
+
+#staticmap img {
+    height: 720px;
+    width: 1280px;
+    margin-bottom: 100px;
+    padding: 120px;
+    clear: both;
+}
+
+#staticmap {
+    clear: both;
+}
+/*list*/
+#list1 {
+    padding-left: 100px;
+    margin: 100px;
+    clear: both;
+}
+
+#add {
+    padding: 100px;
+    padding-top: 20px;
+    margin: 100px;
+    clear:both;
+}
+/*add*/
+#add
+{
+    padding-left: 100px;
+    margin: 100px;
+    clear: both;
+}
+
+/*Default*/
+#repeater {
+    width:754px;
+    padding-left: 100px;
+    margin: 100px;
+    text-decoration-line: none;
+    list-style: none;
+   
+}
